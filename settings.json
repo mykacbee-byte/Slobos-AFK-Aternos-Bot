@@ -1,13 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Ini bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "kaczyyBotfoy.aternos.me
+    ",
+    "port": 62953,
     "version": "",
     "try-creative": false
   },
